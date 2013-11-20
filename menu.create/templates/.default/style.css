@@ -1,0 +1,35 @@
+.menu_scaner .item {
+	width: 400px;
+	padding: 10px 0;
+}
+
+.menu_scaner .item input[type="text"] {
+	padding: 7px;
+	width:400px;
+}
+
+.menu_scaner .item textarea {
+	width: 400px;
+	height:100px;
+}
+
+.menu_scaner .item .links {
+	width:600px;
+}
+
+.menu_scaner .item .links ul {
+	list-style: none;
+}
+
+.menu_scaner .item .links ul li {
+	margin: 5px 0;
+}
+
+.menu_scaner .item .links ul li a {
+	color: black;
+	font-weight: bold;
+}
+
+.created_ok {
+	color: green;
+}
